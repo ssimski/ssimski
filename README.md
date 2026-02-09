@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 Cytometry In R
 
-- Location: Baltimore, Maryland, USA
+- Location: Jupiter, FL, USA
 
-- My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
+- My Favorite Fluorophore/Metal-Isotope: Ametrine
 
-- Previous Coding Experience: Repeatedly Calling IT
+- Previous Coding Experience: I wrote my own HTML in the 90s
 
-- What I Hope to Get From This Course: A faster way to match FlowSOM clusters to their likely cell type.
+- What I Hope to Get From This Course: Learn how to bring R and Flow together.
